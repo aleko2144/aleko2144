@@ -3,7 +3,7 @@
 
 Knowledge: I primarily write programs in C++ and GDScript, but I also have experience with Visual Basic. When creating projects, I use programs such as Blender, Audacity, Paint.NET, and Krita.
 
-Education: Secondary vocational education in "Computer Systems Programming" (09.02.03 according to the Russian classification of specialties).
+Education: Secondary vocational education in "Programming in computer systems" (09.02.03 according to the Russian classification of specialties).
 
 <!--
 **aleko2144/aleko2144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
